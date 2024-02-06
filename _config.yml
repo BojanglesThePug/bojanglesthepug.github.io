@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BoboPug.com"
+title                    : "Bobo's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Cutest Baby 7 Years Running"# site tagline that appears below site title in masthead
 name                     : "Justin"
 description              : "Fan page for the best puggy that ever lived!"
 url                      : "https://bojanglesthepug.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "bojanglesthepug/bojanglesthepug" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "BojanglesThePug" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Justin"
-  avatar           : #"/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Amateur coder, professional pug dad"
-  location         : "United States"
+  name             : "Bojangles"
+  avatar           : "/assets/images/bobo-profile-picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Professional Cuddler, Ocassional Shitface"
+  location         : "Mommy's House"
   email            : "webadmin.channel727@passinbox.com"
   links:
     - label: "Email"

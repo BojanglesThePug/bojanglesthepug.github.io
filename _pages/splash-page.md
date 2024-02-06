@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/bobo-kitchen.jpeg
   actions:
-    - label: "Learn More"
+    - label: "Visit my website BoboPug.com"
       url: "https://bobopug.com/"
   caption: "Photo credit: [**Justin**]"
 excerpt: "To BoboPug.com! Here you will find fine selections of puggo photos - some with special guest Ponyo pug!"
