@@ -110,9 +110,6 @@ author:
   location         : "Mommy's House"
   email            : "webadmin.channel727@passinbox.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:webadmin.channel727@passinbox.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://bobopug.com/"
