@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Alexis**]"
 excerpt: "To my blog! Here you will find fine selections of puggo photos - some with special guest Ponyo pug!"
 intro: 
-  - excerpt: '*How you doin?*<br>*I&rsquo;m pugg&rsquo;n awesome!*<br>__-somepuggy 2024__'
+  - excerpt: 'Hi my name is Bobo pug! I&apos;m a Cali girl who loves long walks on the beach and soy chai lattes. Catch me at the dog beach peeing on seaweed or taking in the cool breeze.'
 feature_row:
   - image_path: assets/images/bobo-aprehensive.jpg
     image_caption: "Image courtesy of [Justin]"
@@ -29,38 +29,8 @@ feature_row:
     image_caption: "Image courtesy of [Alexis]"
     title: "Me sister Ponyo!"
     excerpt: "She's like a refugee in our house or something."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
