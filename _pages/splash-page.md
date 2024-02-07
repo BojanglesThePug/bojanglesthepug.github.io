@@ -16,7 +16,7 @@ intro:
   - excerpt: '*How you doin?*<br>*I&rsquo;m pugg&rsquo;n awesome!*<br>__-somepuggy 2024__'
 feature_row:
   - image_path: assets/images/bobo-aprehensive.jpg
-    image_caption: "Image courtesy of [Alexis]"
+    image_caption: "Image courtesy of [Justin]"
     alt: "aprehensive puggo"
     title: "Aprehensive Puggo"
     excerpt: "Behold, a glamour shot of me! Your favorite puggo!"
@@ -26,7 +26,7 @@ feature_row:
     title: "Bobo Big Eyeballs"
     excerpt: "Look at me and my big o' eyeballs"
   - image_path: /assets/images/meSisterPonyo.jpg
-    image_caption: "Image courtesy of [Justin]"
+    image_caption: "Image courtesy of [Alexis]"
     title: "Me sister Ponyo!"
     excerpt: "She's like a refugee in our house or something."
 feature_row2:
