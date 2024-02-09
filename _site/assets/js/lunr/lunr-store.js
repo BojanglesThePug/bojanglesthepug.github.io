@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/bobo-getting-kissed/",
         "teaser": null
+      },{
+        "title": "Pug Beach Day!",
+        "excerpt":"Ponyo and I went to the beach! In the serene island of Coronado, sibling pugs Bobo and Ponyo, with their contrasting personalities, set aside their rivalry for a spontaneous beach adventure. Despite their bickering along the way, their determination led them through winding paths and bustling crowds. As they finally...","categories": ["Layout","Uncategorized"],
+        "tags": ["edge case","featured image","image","layout"],
+        "url": "/layout/uncategorized/pug-beach/",
+        "teaser": null
       }]
