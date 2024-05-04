@@ -9,7 +9,6 @@ tags:
  - art
 ---
 <br>
-
 # DALLE Pug Art Showcase
 ---
 DALL-E 3 is getting some really strong AI pug generations now.
@@ -18,3 +17,10 @@ DALL-E 3 is getting some really strong AI pug generations now.
   <a href="/assets/images/pugdalf.JPG"><img src="/assets/images/pugdalf.JPG"></a>
   <a href="/assets/images/walpug.JPG"><img src="/assets/images/walpug.JPG"></a>
   <figcaption>Pug as Gandalf and Pug Walrus Combo Wombo</figcaption>
+</figure>
+
+ <figure class="half">
+   <a href="/assets/images/spacepups-real.jpg"><img src="/assets/images/spacepups-real.jpg"></a>
+   <a href="/assets/images/spacepups-portrait.jpg"><img src="/assets/images/spacepups-portrait.jpg"></a>
+   <figcaption>Babies in space</figcaption>
+  </figure>
