@@ -9,7 +9,9 @@ tags:
  - art
 ---
 
-### DALLE Pug Art Showcase
+# DALLE Pug Art Showcase
+---
+**DALLE 3 is getting some really strong AI pug generations now.**
 
 <figure class="half">
   <a href="/assets/images/pugdalf.JPG"><img src="/assets/images/pugdalf.JPG"></a>
