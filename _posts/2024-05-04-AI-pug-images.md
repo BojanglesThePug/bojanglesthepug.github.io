@@ -20,7 +20,7 @@ DALL-E 3 is getting some really strong AI pug generations now.
 </figure>
 
  <figure class="half">
-   <a href="/assets/images/spacepups-real.jpg"><img src="/assets/images/spacepups-real.jpg"></a>
+   <a href="/assets/images/spacepups-real-updated.jpg"><img src="/assets/images/spacepups-real-updated.jpg"></a>
    <a href="/assets/images/spacepups-portrait.jpg"><img src="/assets/images/spacepups-portrait.jpg"></a>
    <figcaption>Babies in space</figcaption>
   </figure>
